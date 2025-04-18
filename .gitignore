@@ -3,11 +3,9 @@ venv
 .venv/
 .env
 env
-src/abtypatdc/__pycache__/*
-src/acharya/__pycache__/*
-src/acharya/migrations/*
-src/account/__pycache__/*
-src/account/migrations/*
+musicplayer_project/__pycache__/*
+player/__pycache__/*
+player/migrations/*
 *db.sqlite3
 src/media/*
 src/db.sqlite3
@@ -16,4 +14,4 @@ src/media/*
 src/media/
 .env
 .vscode
-src/acharya/management/commands/__pycache__/*
+
